@@ -1,0 +1,14 @@
+/.metadata/
+*.log
+*.snap
+*.index
+*.bak
+*.tmp
+*.swp
+*.class
+bin/
+target/
+
+# Git ignore .gitignore files themselves
+.DS_Store
+Thumbs.db
